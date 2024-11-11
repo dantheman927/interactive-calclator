@@ -2,14 +2,11 @@ class calfunctions:
     def add(x,y):
         print(x+y)
 
-
     def sub(x,y):
         print(x-y)
 
-
     def tim(x,y): 
         print(x*y)
-
 
     def div(x,y):
         print(x/y)
@@ -18,8 +15,6 @@ class calfunctions:
         print(x * x)
 
 cf = calfunctions
-
-
 
 def calculor(caltype):
     
