@@ -52,4 +52,3 @@ while True:
 
     calinput = input("Enter what you want to calculate, e.g.,'5 + 5' or '4 ^' for square:\n")
     calculor(calinput)
-
